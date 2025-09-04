@@ -1,0 +1,14 @@
+D:\lesson\Cs\ConvertCurrencyApp\bin\Debug\net9.0\ConvertCurrencyApp.exe
+D:\lesson\Cs\ConvertCurrencyApp\bin\Debug\net9.0\ConvertCurrencyApp.deps.json
+D:\lesson\Cs\ConvertCurrencyApp\bin\Debug\net9.0\ConvertCurrencyApp.runtimeconfig.json
+D:\lesson\Cs\ConvertCurrencyApp\bin\Debug\net9.0\ConvertCurrencyApp.dll
+D:\lesson\Cs\ConvertCurrencyApp\bin\Debug\net9.0\ConvertCurrencyApp.pdb
+D:\lesson\Cs\ConvertCurrencyApp\obj\Debug\net9.0\ConvertCurrencyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\lesson\Cs\ConvertCurrencyApp\obj\Debug\net9.0\ConvertCurrencyApp.AssemblyInfoInputs.cache
+D:\lesson\Cs\ConvertCurrencyApp\obj\Debug\net9.0\ConvertCurrencyApp.AssemblyInfo.cs
+D:\lesson\Cs\ConvertCurrencyApp\obj\Debug\net9.0\ConvertCurrencyApp.csproj.CoreCompileInputs.cache
+D:\lesson\Cs\ConvertCurrencyApp\obj\Debug\net9.0\ConvertCurrencyApp.dll
+D:\lesson\Cs\ConvertCurrencyApp\obj\Debug\net9.0\refint\ConvertCurrencyApp.dll
+D:\lesson\Cs\ConvertCurrencyApp\obj\Debug\net9.0\ConvertCurrencyApp.pdb
+D:\lesson\Cs\ConvertCurrencyApp\obj\Debug\net9.0\ConvertCurrencyApp.genruntimeconfig.cache
+D:\lesson\Cs\ConvertCurrencyApp\obj\Debug\net9.0\ref\ConvertCurrencyApp.dll

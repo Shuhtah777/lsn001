@@ -1,0 +1,14 @@
+D:\lesson\Cs\TextAnalyzerApp\bin\Debug\net9.0\TextAnalyzerApp.exe
+D:\lesson\Cs\TextAnalyzerApp\bin\Debug\net9.0\TextAnalyzerApp.deps.json
+D:\lesson\Cs\TextAnalyzerApp\bin\Debug\net9.0\TextAnalyzerApp.runtimeconfig.json
+D:\lesson\Cs\TextAnalyzerApp\bin\Debug\net9.0\TextAnalyzerApp.dll
+D:\lesson\Cs\TextAnalyzerApp\bin\Debug\net9.0\TextAnalyzerApp.pdb
+D:\lesson\Cs\TextAnalyzerApp\obj\Debug\net9.0\TextAnalyzerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\lesson\Cs\TextAnalyzerApp\obj\Debug\net9.0\TextAnalyzerApp.AssemblyInfoInputs.cache
+D:\lesson\Cs\TextAnalyzerApp\obj\Debug\net9.0\TextAnalyzerApp.AssemblyInfo.cs
+D:\lesson\Cs\TextAnalyzerApp\obj\Debug\net9.0\TextAnalyzerApp.csproj.CoreCompileInputs.cache
+D:\lesson\Cs\TextAnalyzerApp\obj\Debug\net9.0\TextAnalyzerApp.dll
+D:\lesson\Cs\TextAnalyzerApp\obj\Debug\net9.0\refint\TextAnalyzerApp.dll
+D:\lesson\Cs\TextAnalyzerApp\obj\Debug\net9.0\TextAnalyzerApp.pdb
+D:\lesson\Cs\TextAnalyzerApp\obj\Debug\net9.0\TextAnalyzerApp.genruntimeconfig.cache
+D:\lesson\Cs\TextAnalyzerApp\obj\Debug\net9.0\ref\TextAnalyzerApp.dll

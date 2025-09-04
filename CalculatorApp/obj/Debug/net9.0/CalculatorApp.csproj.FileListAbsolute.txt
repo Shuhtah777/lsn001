@@ -1,0 +1,14 @@
+D:\lesson\Cs\CalculatorApp\obj\Debug\net9.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\lesson\Cs\CalculatorApp\obj\Debug\net9.0\CalculatorApp.AssemblyInfoInputs.cache
+D:\lesson\Cs\CalculatorApp\obj\Debug\net9.0\CalculatorApp.AssemblyInfo.cs
+D:\lesson\Cs\CalculatorApp\obj\Debug\net9.0\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\lesson\Cs\CalculatorApp\bin\Debug\net9.0\CalculatorApp.exe
+D:\lesson\Cs\CalculatorApp\bin\Debug\net9.0\CalculatorApp.deps.json
+D:\lesson\Cs\CalculatorApp\bin\Debug\net9.0\CalculatorApp.runtimeconfig.json
+D:\lesson\Cs\CalculatorApp\bin\Debug\net9.0\CalculatorApp.dll
+D:\lesson\Cs\CalculatorApp\bin\Debug\net9.0\CalculatorApp.pdb
+D:\lesson\Cs\CalculatorApp\obj\Debug\net9.0\CalculatorApp.dll
+D:\lesson\Cs\CalculatorApp\obj\Debug\net9.0\refint\CalculatorApp.dll
+D:\lesson\Cs\CalculatorApp\obj\Debug\net9.0\CalculatorApp.pdb
+D:\lesson\Cs\CalculatorApp\obj\Debug\net9.0\CalculatorApp.genruntimeconfig.cache
+D:\lesson\Cs\CalculatorApp\obj\Debug\net9.0\ref\CalculatorApp.dll
